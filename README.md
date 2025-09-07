@@ -2,7 +2,7 @@
 
  A simple Node.js/Express API to track daily expenses, view them, and analyze spending by category.
 
-# Features:
+Features:
 
 - Add expenses (category, amount, date)
 
